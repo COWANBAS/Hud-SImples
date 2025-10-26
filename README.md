@@ -64,7 +64,9 @@ Modifica o comportamento do medidor de umidade (rain meter):
 
 # RESUMO
 
-Esse script personaliza a interface HUD do jogador alterando as cores, comportamento e exibição de informações (como temperatura e umidade), permitindo efeitos visuais como cores customizadas, adaptativas ou animadas em arco-íris.
+Esse script personaliza a interface HUD do jogador alterando as cores, comportamento e exibição de informações (como temperatura e umidade), permitindo efeitos visuais como cores customizadas, adaptativas ou animadas em arco-íris, e foi completamente adptado para rodar no linux.
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/867d690a-44a1-488e-b576-1b52ef347143" />
 
 
 
