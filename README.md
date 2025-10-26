@@ -10,10 +10,13 @@ if GetModConfigData("enablecustomcolor") == true and GetModConfigData("makerainb
     ...
 end
 
-Se a configuração do mod enablecustomcolor estiver ativada e o modo arco-íris (makerainbow) desativado, ele:
+Se a configuração do mod "enablecustomcolor" estiver ativada e o modo "arco-íris" desativado, ele:
 
 - Lê as cores personalizadas (ccred, ccgreen, ccblue);
 
 - Aplica essa cor a todos os elementos da HUD (números e setas dos medidores).
 
 Essas configurações vêm das opções do mod configuráveis no menu.
+
+<img width="852" height="404" alt="image" src="https://github.com/user-attachments/assets/e02fa30c-e7e2-4ff3-8530-c6873d9b3588" />
+
